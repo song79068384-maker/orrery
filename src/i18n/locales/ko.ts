@@ -72,7 +72,7 @@ const ko: Record<string, string> = {
   'guide.step3b': '를 누르면 사주팔자 + 자미두수 + 출생차트 데이터가 한 번에 복사됩니다. 각 탭의 ',
   'guide.step3bold2': 'AI 해석용 복사',
   'guide.step3c': ' 버튼으로 개별 복사도 가능합니다.',
-  'guide.step4': 'Claude, ChatGPT, Gemini 등 AI 채팅에 붙여넣고 해석을 요청하세요.',
+  'guide.step4': 'song79068384@gmail.com',
   'guide.askAI': 'AI에게 이렇게 물어보세요',
   'guide.personality': '성격 분석',
   'guide.personalityEx': '다음은 내 사주팔자, 자미두수 명반, 출생차트야. 성격적 강점과 약점을 분석해줘.',
