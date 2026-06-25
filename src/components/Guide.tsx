@@ -74,6 +74,23 @@ export default function Guide() {
               </a>
             </div>
           </div>   {/* ← 원래 있던 닫는 태그 */}
+            <div>
+            <p className="text-sm font-medium text-gray-400 dark:text-gray-500 mb-1">{t('guide.counseling')}</p>
+            <ExampleBox>
+              {t('guide.counselingEx')}<br />
+              <span className="text-gray-400 dark:text-gray-500">{t('guide.pasteData')}</span>
+            </ExampleBox>
+            {/* ↓ 여기에 추가 */}
+            <div className="mt-3 rounded-lg border border-amber-200 dark:border-amber-800 bg-amber-50/50 dark:bg-amber-900/20 px-4 py-3 flex items-center justify-between gap-3">
+              <p className="text-sm text-amber-700 dark:text-amber-300">{t('guide.expertTitle')}</p>
+              
+                href="mailto:song79068384@gmail.com?subject=사주%20상담%20문의&body=이름%3A%0D%0A생년월일%3A%0D%0A문의%20내용%3A"
+                className="shrink-0 inline-flex items-center gap-1.5 rounded-md bg-amber-500 hover:bg-amber-600 px-3 py-1.5 text-sm font-medium text-white transition-colors"
+              >
+                ✉ {t('guide.expertBtn')}
+              </a>
+            </div>
+          </div>   {/* ← 원래 있던 닫는 태그 */}
           </div>
           <div>
             <p className="text-sm font-medium text-gray-400 dark:text-gray-500 mb-1">{t('guide.compatibility')}</p>
