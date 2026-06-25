@@ -79,6 +79,8 @@ const ko: Record<string, string> = {
   'guide.pasteData': '[복사한 데이터 붙여넣기]',
   'guide.counseling': '고민 상담',
   'guide.counselingEx': '아래 명반 데이터를 기반으로, 내가 살면서 힘들 수 있는 부분 Top 3를 뽑고 조언해줘.',
+  'guide.expertTitle': 'AI로 해결되지 않는 깊은 고민은?',
+  'guide.expertBtn': '전문가에게 직접 문의하기',
   'guide.compatibility': '궁합 보기',
   'guide.compatibilityEx': '두 사람의 명반 데이터를 보내줄게. 성격적으로 잘 맞는 부분과 부딪힐 수 있는 부분을 분석해줘.',
   'guide.pasteA': '[A의 데이터 붙여넣기]',
