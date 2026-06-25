@@ -76,7 +76,7 @@ const ko: Record<string, string> = {
   'guide.askAI': 'AI에게 이렇게 물어보세요',
   'guide.personality': '성격 분석',
   'guide.personalityEx': '다음은 내 사주팔자, 자미두수 명반, 출생차트야. 성격적 강점과 약점을 분석해줘.',
-  'guide.pasteData': '[복사한 데이터 붙여넣기]',
+  'guide.pasteData': 'https://song052600.mycafe24.com/',
   'guide.counseling': '고민 상담',
   'guide.counselingEx': '아래 명반 데이터를 기반으로, 내가 살면서 힘들 수 있는 부분 Top 3를 뽑고 조언해줘.',
   'guide.compatibility': '궁합 보기',
