@@ -57,13 +57,6 @@ export default function Guide() {
               {t('guide.counselingEx')}<br />
               <span className="text-gray-400 dark:text-gray-500">{t('guide.pasteData')}</span>
             </ExampleBox>
-            <div>
-            <p className="text-sm font-medium text-gray-400 dark:text-gray-500 mb-1">{t('guide.counseling')}</p>
-            <ExampleBox>
-              {t('guide.counselingEx')}<br />
-              <span className="text-gray-400 dark:text-gray-500">{t('guide.pasteData')}</span>
-            </ExampleBox>
-            {/* ↓ 여기에 추가 */}
             <div className="mt-3 rounded-lg border border-amber-200 dark:border-amber-800 bg-amber-50/50 dark:bg-amber-900/20 px-4 py-3 flex items-center justify-between gap-3">
               <p className="text-sm text-amber-700 dark:text-amber-300">{t('guide.expertTitle')}</p>
               
